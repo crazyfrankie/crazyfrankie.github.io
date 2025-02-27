@@ -1,3 +1,6 @@
+<head>
+    <link rel="icon" href="themr/5B4781D4A59ABFE8240347305BBF0207.png" type="image/png">
+</head>
 # crazyfrank's blog
 - CQUT: Member of CFC studio. Sophomore majoring in Computer Science 
 - At present, it mainly develops in the field of GoWeb and middleware research and development
