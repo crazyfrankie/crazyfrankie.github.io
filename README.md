@@ -2,7 +2,7 @@
 - CQUT: Member of CFC studio. Sophomore majoring in Computer Science 
 - At present, it mainly develops in the field of GoWeb and middleware research and development
 
-[访问博客首页](theme/index.html)
+[访问博客首页](theme/home.html)
 
 ## Language & Framework & Database
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
