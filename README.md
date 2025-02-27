@@ -4,8 +4,6 @@
 
 ![GitHub Snake Game](https://raw.githubusercontent.com/crazyfrankie/crazyfrankie/output/github-contribution-grid-snake.svg)
 
-[访问博客首页](theme/home.html)
-
 ## Language & Framework & Database
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-%2523000.svg?style=flat&logo=Gin&logoColor=white&labelColor=blue&color=blue)
